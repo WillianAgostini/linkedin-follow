@@ -1,6 +1,6 @@
 {
-  "name": "my-extension",
-  "version": "0.1.0",
+  "name": "linkedin-follow-ext",
+  "version": "0.0.1",
   "description": "My Chrome Extension",
   "private": true,
   "scripts": {
